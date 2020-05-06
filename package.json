@@ -3,9 +3,8 @@
   "version": "1.6.2",
   "description": "A comment plugin base on GitHub issues",
   "keywords": [
-    "comment",
-    "plugin",
-    "lib",
+    "log",
+    "console",
     "GitHub"
   ],
   "main": "dist/slog.js",
@@ -19,8 +18,7 @@
     "test": "jest",
     "bump": "standard-version -a"
   },
-  "author": "Liucw",
-  "license": "MIT",
+  "author": "sonwenrou",
   "devDependencies": {
     "autoprefixer": "7.1.2",
     "babel-core": "6.25.0",
